@@ -1,0 +1,16 @@
+# Generated assets and local files
+*.mat
+*.asv
+*.mex*
+*.slx
+*.slxc
+*.log
+*.docx
+*.pptx
+*.pdf
+__pycache__/
+slprj/
+output/
+tmp/
+.env
+.env.*
